@@ -1,22 +1,27 @@
-<!-- Banner & Typing Animation (FIXED COLOR GRADIENT) -->
+<!-- Banner: Static Image with Desired Colors (Purple & Beige/Cream) - NOT A CAPSULE RENDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,F5F5DC&height=180&section=header&text=Razan%20Alsunaidi&fontSize=42&animation=twinkling" width="100%" />
+  <img src="https://img.shields.io/badge/Razan%20Alsunaidi-%238A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=%23F5F5DC&color=%238A2BE2" width="100%" />
 </p>
 
+<!-- Typwriter Effect with Fixed Violet/Beige Gradient Colors (No Black!) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Sub-header with Beige Text on Violet Background Badge Style -->
 <p align="center">
-  🎮 <b>Game Dev & XR</b> • 🧪 <b>QA & Software Testing</b> • 🤖 <b>AI & Computer Vision</b>
+  <img src="https://img.shields.io/badge/Game%20Dev%20%26%20XR-%23F5F5DC?style=for-the-badge&logo=unity&logoColor=%238A2BE2&color=%23F5F5DC" />
+  <img src="https://img.shields.io/badge/QA%20%26%20Software%20Testing-%23F5F5DC?style=for-the-badge&logo=googlecheck&logoColor=%238A2BE2&color=%23F5F5DC" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Computer%20Vision-%23F5F5DC?style=for-the-badge&logo=ai&logoColor=%238A2BE2&color=%23F5F5DC" />
 </p>
 
 ---
 
 ### 🕹️ Tech Stack & Tools
 
+<!-- Skill Icons with Custom Violet and Beige Gradient Glow and Colors -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,unreal,cs,py,cpp,git,github,figma&theme=dark" />
@@ -54,4 +59,5 @@
   <a href="https://glitter-snowman-845.notion.site/Razan-Alsunaidi-35bd843cc00680b2b428daf954c2e520?pvs=143">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
+</p>  </a>
 </p>
