@@ -1,18 +1,16 @@
-<!-- Guaranteed Header (Violet & Beige) -->
+<!-- Banner & Typing Animation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Razan_Alsunaidi-GAME_DEV_%E2%80%A2_XR_%E2%80%A2_QA_%E2%80%A2_AI-8A2BE2?style=for-the-badge&labelColor=F5F5DC&color=8A2BE2" width="100%" height="80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Razan%20Alsunaidi&fontSize=42&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Game%20Dev%20%26%20XR-F5F5DC?style=for-the-badge&logo=unity&logoColor=8A2BE2&color=F5F5DC" />
-  <img src="https://img.shields.io/badge/QA%20%26%20Testing-F5F5DC?style=for-the-badge&logo=checkmarx&logoColor=8A2BE2&color=F5F5DC" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Vision-F5F5DC?style=for-the-badge&logo=openai&logoColor=8A2BE2&color=F5F5DC" />
+  🎮 <b>Game Dev & XR</b> • 🧪 <b>QA & Software Testing</b> • 🤖 <b>AI & Computer Vision</b>
 </p>
 
 ---
@@ -56,6 +54,7 @@
   <a href="https://glitter-snowman-845.notion.site/Razan-Alsunaidi-35bd843cc00680b2b428daf954c2e520?pvs=143">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
+</p>  </a>
 </p>    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
