@@ -1,6 +1,6 @@
-<!-- Banner & Typing Animation -->
+<!-- Guaranteed Static Header (Violet & Beige) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&customColorList=25,12&height=180&section=header&text=Razan%20Alsunaidi&fontSize=42&animation=twinkling&color=7f00ff,f5f5dc" width="100%" />
+  <img src="https://img.shields.io/badge/Razan%20Alsunaidi-%238A2BE2?style=for-the-badge&logo=github&labelColor=%23F5F5DC&color=%238A2BE2&logoColor=black" width="100%" />
 </p>
 
 <p align="center">
