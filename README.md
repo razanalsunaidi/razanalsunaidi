@@ -1,34 +1,7 @@
-<!-- Glowing Violet & Beige Header Card -->
-<div align="center">
-  <svg width="100%" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="violetBeige" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#4C1D95" />
-        <stop offset="50%" stop-color="#7C3AED" />
-        <stop offset="100%" stop-color="#8B5CF6" />
-      </linearGradient>
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="8" result="blur" />
-        <feComposite in="SourceGraphic" in2="blur" operator="over" />
-      </filter>
-    </defs>
-    <rect width="100%" height="100%" rx="16" fill="url(#violetBeige)" />
-    <!-- Grid Pattern overlay -->
-    <g opacity="0.12" stroke="#FBF7EE" stroke-width="1">
-      <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-        <path d="M 20 0 L 0 0 0 20" fill="none" />
-      </pattern>
-      <rect width="100%" height="100%" fill="url(#grid)" />
-    </g>
-    <!-- Accent Shapes -->
-    <circle cx="720" cy="30" r="70" fill="#FBF7EE" opacity="0.08" />
-    <circle cx="80" cy="140" r="50" fill="#FBF7EE" opacity="0.05" />
-    
-    <!-- Title Text -->
-    <text x="50%" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="38" fill="#FBF7EE" text-anchor="middle" filter="url(#glow)">Razan Alsunaidi</text>
-    <text x="50%" y="112" font-family="'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="16" fill="#E9D8A6" text-anchor="middle" letter-spacing="3">GAME DEV • XR • QA TESTING • AI</text>
-  </svg>
-</div>
+<!-- Banner Header Image (Violet & Cream Gradient) -->
+<p align="center">
+  <img src="https://svg-banners.mybluemix.net/api?type=style-gradient&text1=Razan%20Alsunaidi&text2=GAME%20DEV%20%E2%80%A2%20XR%20%E2%80%A2%20QA%20TESTING%20%E2%80%A2%20AI&width=800&height=160&color1=7C3AED&color2=FBF7EE" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
