@@ -1,18 +1,18 @@
-<!-- Banner Header Image (Violet & Cream Gradient) -->
+<!-- Guaranteed Header (Violet & Beige) -->
 <p align="center">
-  <img src="https://svg-banners.mybluemix.net/api?type=style-gradient&text1=Razan%20Alsunaidi&text2=GAME%20DEV%20%E2%80%A2%20XR%20%E2%80%A2%20QA%20TESTING%20%E2%80%A2%20AI&width=800&height=160&color1=7C3AED&color2=FBF7EE" width="100%" />
+  <img src="https://img.shields.io/badge/Razan_Alsunaidi-GAME_DEV_%E2%80%A2_XR_%E2%80%A2_QA_%E2%80%A2_AI-8A2BE2?style=for-the-badge&labelColor=F5F5DC&color=8A2BE2" width="100%" height="80" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Game%20Dev%20%26%20XR-%23FBF7EE?style=for-the-badge&logo=unity&logoColor=%236D28D9&color=%23FBF7EE" />
-  <img src="https://img.shields.io/badge/QA%20%26%20Testing-%23FBF7EE?style=for-the-badge&logo=checkmarx&logoColor=%236D28D9&color=%23FBF7EE" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Vision-%23FBF7EE?style=for-the-badge&logo=openai&logoColor=%236D28D9&color=%23FBF7EE" />
+  <img src="https://img.shields.io/badge/Game%20Dev%20%26%20XR-F5F5DC?style=for-the-badge&logo=unity&logoColor=8A2BE2&color=F5F5DC" />
+  <img src="https://img.shields.io/badge/QA%20%26%20Testing-F5F5DC?style=for-the-badge&logo=checkmarx&logoColor=8A2BE2&color=F5F5DC" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Vision-F5F5DC?style=for-the-badge&logo=openai&logoColor=8A2BE2&color=F5F5DC" />
 </p>
 
 ---
@@ -55,5 +55,7 @@
   </a>
   <a href="https://glitter-snowman-845.notion.site/Razan-Alsunaidi-35bd843cc00680b2b428daf954c2e520?pvs=143">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
