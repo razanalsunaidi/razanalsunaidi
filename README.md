@@ -1,16 +1,15 @@
-<!-- Guaranteed Static Header (Violet & Beige) -->
+<!-- Banner & Typing Animation (FIXED COLOR GRADIENT) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Razan%20Alsunaidi-%238A2BE2?style=for-the-badge&logo=github&labelColor=%23F5F5DC&color=%238A2BE2&logoColor=black" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,F5F5DC&height=180&section=header&text=Razan%20Alsunaidi&fontSize=42&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=7f00ff&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  🎓 <b>CS Honors Graduate</b><br>
   🎮 <b>Game Dev & XR</b> • 🧪 <b>QA & Software Testing</b> • 🤖 <b>AI & Computer Vision</b>
 </p>
 
