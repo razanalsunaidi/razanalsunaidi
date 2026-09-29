@@ -1,7 +1,12 @@
-<!-- Banner & Typing Animation (Nebula Theme) -->
+<!-- Nebula Animated Header GIF -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=nebula&height=180&section=header&text=Razan%20Alsunaidi&fontSize=42&animation=twinkling" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-842e-131b82103f16.gif" width="100%" height="160" style="object-fit: cover; border-radius: 10px;" />
 </p>
+
+<!-- Title Text in Banner Style -->
+<h1 align="center">
+  <font color="#8B5CF6">Razan Alsunaidi</font>
+</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
