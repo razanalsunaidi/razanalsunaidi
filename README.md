@@ -1,16 +1,12 @@
-<!-- Nebula Animated Header GIF -->
+<!-- Banner & Typing Animation -->
+<!-- يمكنكِ تعديل الألوان في السطر التالي عند الخيار color=8A2BE2,F5F5DC -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-842e-131b82103f16.gif" width="100%" height="160" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,F5F5DC&height=180&section=header&text=Razan%20Alsunaidi&fontSize=42&animation=twinkling" width="100%" />
 </p>
-
-<!-- Title Text in Banner Style -->
-<h1 align="center">
-  <font color="#8B5CF6">Razan Alsunaidi</font>
-</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
   </a>
 </p>
 
