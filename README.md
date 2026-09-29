@@ -1,11 +1,11 @@
-<!-- Banner & Typing Animation -->
+<!-- Banner & Typing Animation (Nebula Theme) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Razan%20Alsunaidi&fontSize=42&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=nebula&height=180&section=header&text=Razan%20Alsunaidi&fontSize=42&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Game+%26+XR+Developer;Quality+Assurance+%26+Game+Tester;AI+%26+Computer+Vision+Engineer;Building+Immersive+%26+Intelligent+Worlds;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,8 +53,5 @@
   </a>
   <a href="https://glitter-snowman-845.notion.site/Razan-Alsunaidi-35bd843cc00680b2b428daf954c2e520?pvs=143">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-</p>  </a>
-</p>    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
